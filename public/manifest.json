@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Internet Speed Monitor",
+  "version": "1.0.0",
+  "description": "Measure your current internet download speed.",
+  "action": {
+    "default_popup": "index.html"
+  }
+}
